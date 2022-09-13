@@ -7,7 +7,7 @@ import Home from './Page/Home.page';
 import Login from './Page/Login.page';
 
 //importamos nuestros componentes
-import Show from './Components/Platillos/Show.js';
+import Show from './Page/Platillos.page.js';
 import Create from './Components/Platillos/Create.js';
 import Edit from './Components/Platillos/Edit.js';
 
