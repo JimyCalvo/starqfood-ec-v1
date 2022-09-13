@@ -1,5 +1,6 @@
 import React from 'react';
 import Register from '../Components/Register/Register.component';
+import NavBar from '../Components/App/NavBar';
 
 
 
@@ -7,7 +8,7 @@ function RegisterP() {
     return(
         <>
             <header>
-              {/* <Navbar/> */}
+              <NavBar/>
             </header>
             <main>
               <Register/>
