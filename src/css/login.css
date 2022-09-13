@@ -1,0 +1,25 @@
+#login-container{
+    background-color: white;
+    height:90%;
+}
+
+button{
+    width: 60%;
+}
+/**/
+@media(min-width: 576px) {
+    #login-container{
+        background-image: url(../img/unsplash_VUlct4RFVxM.svg);
+        background-position: center ;
+        background-size: cover;
+        height: 100%;
+    }
+}
+#Marco{
+    top:56%;
+}
+.login-img{
+    background-image: url(../img/Quito_tarde.svg);
+    background-position: bottom center !important;
+    background-size: cover !important;
+}

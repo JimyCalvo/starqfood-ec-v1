@@ -1,0 +1,28 @@
+#forgot-container{
+    background-color: white;
+}
+
+@media(min-width: 576px) {
+    #forgot-container{
+        background-image: url(/src/img/Quito_Noche.svg);
+        background-position: center ;
+        background-size: cover;;
+    }
+}
+
+
+.forgot-img{
+    background-image: url(/src/img/unsplash_VUlct4RFVxM.svg);
+    background-position: bottom center !important;
+    background-size: cover !important;
+}
+#keyr{
+    width: 100% !important;
+    height: 50px;
+}
+#Marco{
+    top:56%;
+}
+button{
+    width: 60%;
+}
